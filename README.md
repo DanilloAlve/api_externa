@@ -1,7 +1,9 @@
 # api_externa
-# API Externa com Flask e Swagger
+# API com Flask e Swagger
 
-Este projeto consta como requisito para Pós-graduação em Desenvolvimento FullStack PUC-RIO. é uma API REST básica desenvolvida em **Flask**, com integração à API externa **JSONPlaceholder**, que serve para simular interações com recursos como posts. O projeto também utiliza o **Swagger** para documentar a API.
+Este projeto consta como requisito para Pós-graduação em Desenvolvimento FullStack PUC-RIO. é uma API REST desenvolvida em **Flask**, com integração à API externa **JSONPlaceholder**, que serve para simular interações com recursos como posts. O projeto também utiliza o **Swagger** para documentar a API.
+
+API externa pode ser acessada pelo link: https://jsonplaceholder.typicode.com/
 
 ## Funcionalidades da API
 
